@@ -45,24 +45,24 @@ python [main.py](main.py link here)
 
 We welcome contributions from the community! If you would like to contribute to Tic Tac Toe, please follow these steps:
 
-1. Fork the repository.
+1. **Fork the repository.**
 
-2. Create a new branch for your feature or bugfix:
+2. **Create a new branch for your feature or bugfix:**
     ```sh
     git checkout -b feature-name
     ```
 
-3. Make your changes and commit them:
+3. **Make your changes and commit them:**
     ```sh
     git commit -m "Description of your changes"
     ```
 
-4. Push your changes to your forked repository:
+4. **Push your changes to your forked repository:**
     ```sh
     git push origin feature-name
     ```
 
-5. Open a pull request and describe your changes in detail.
+5. **Open a pull request and describe your changes in detail.**
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
