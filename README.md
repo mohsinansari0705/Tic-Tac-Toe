@@ -29,13 +29,12 @@ To install and run Tic Tac Toe, follow these steps:
     ```sh
     pip install -r requirements.txt
     ```
+4. **Once the game is installed, you can start playing by running the `main.py` script:**
+    ```sh
+    python [main.py](https://github.com/mohsinansari0705/Tic-Tac-Toe/blob/main/main.py)
+    ```
 
 ## Usage
-
-Once the game is installed, you can start playing by running the `main.py` script:
-```sh
-python [main.py](main.py link here)
-```
 
 - Follow the on-screen instructions to play the game.
 - Players take turns clicking on the grid to place their marks (X or O).
