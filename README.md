@@ -31,7 +31,7 @@ To install and run Tic Tac Toe, follow these steps:
     ```
 4. **Once the game is installed, you can start playing by running the `main.py` script:**
     ```sh
-    python [main.py](https://github.com/mohsinansari0705/Tic-Tac-Toe/blob/main/main.py)
+    python main.py
     ```
 
 ## Usage
